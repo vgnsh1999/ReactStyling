@@ -32,10 +32,11 @@
   color: red;
 }
 
-.invalid button{
-  background-color: pink;
+
+.form-control.invalid button{
+  background-color: rgb(245, 139, 139);
 }
 
-.valid button{
+.form-control button{
   background-color: #8b005d;
 }
